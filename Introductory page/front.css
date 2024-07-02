@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*.maindiv{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(90, 86, 92, 0.589);
+}*/
+.body{
+    background-color: aqua;
+}
